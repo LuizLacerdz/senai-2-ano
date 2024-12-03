@@ -1,0 +1,41 @@
+export const ptBR = {
+    monthNames: [ // nomes dos meses
+        "Janeiro",
+        "Fevereiro",
+        "Março",
+        "Abril",
+        "Maio",
+        "Junho",
+        "Julho",
+        "Agosto",
+        "Setembro",
+        "Outubro",
+        "Novembro",
+        "Dezembro",
+    ],
+    monthNamesShort: [ // abreviaturas dos meses
+        "Jan",
+        "Fev",
+        "Mar",
+        "Abr",
+        "Mai",
+        "Jun",
+        "Jul",
+        "Ago",
+        "Set",
+        "Out",
+        "Nov",
+        "Dez",
+    ],
+    dayNames: [ // nomes dos dias
+        "Domingo",
+        "Segunda",
+        "Terça",
+        "Quarta",
+        "Quinta",
+        "Sexta",
+        "Sábado",
+    ],
+    dayNamesShort: [ "DOM", "SEG", "TER", "QUA", "QUI", "SEX", "SÁB" ], // abreviaturas dos dias
+    today: "Hoje", // hoje
+}
